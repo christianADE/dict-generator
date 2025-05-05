@@ -1,4 +1,4 @@
-# 🔐 DICT-GENERATOR - Générateur de Dictionnaire par Force Brute
+# 🔐 DICT-GENERATOR
 
 **DICT-GENERATOR** est une application Python avec interface graphique (Tkinter) permettant de générer des dictionnaires personnalisés, utilisés dans les tests de sécurité de mots de passe via brute force.
 
