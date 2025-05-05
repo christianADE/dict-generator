@@ -13,7 +13,7 @@
 
 ## 🖥️ Capture d’écran
 <p align="center">
-  <img src="assets/gui.png" alt="Aperçu de l'application" width="500"/>
+  <img src="gui.png" alt="Aperçu de l'application" width="500"/>
 </p>
 
   
